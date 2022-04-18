@@ -1,0 +1,11 @@
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.exe
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.deps.json
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.runtimeconfig.json
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.runtimeconfig.dev.json
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.dll
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\bin\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.pdb
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\obj\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.csprojAssemblyReference.cache
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\obj\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.AssemblyInfoInputs.cache
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\obj\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.AssemblyInfo.cs
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\obj\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.dll
+C:\Projetos\1 -BACKEND\C SHARP\3---Associacao-de-classes-C-Sharp-refeito\obj\Debug\netcoreapp3.0\3---Associacao-de-classes-C-Sharp-refeito.pdb
